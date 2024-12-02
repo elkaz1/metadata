@@ -1,7 +1,7 @@
 import os
 import tempfile
 import streamlit as st
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 # Streamlit Web App
 st.title("Video Metadata Removal Tool")
