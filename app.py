@@ -4,7 +4,7 @@ import streamlit as st
 from moviepy import VideoFileClip
 
 # Streamlit Web App
-st.title("Video Metadata Removal Tool")
+st.title("Video Metadata Removal Tool By Zack")
 st.write("Upload videos, and this tool will remove their metadata.")
 
 # File upload section
